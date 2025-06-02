@@ -1,5 +1,4 @@
 # 👋 Olá! Bem-vindo(a) ao meu perfil GitHub!
-## Meu nome é Giuliana Pola e sou apaixonada por dados, tecnologia e ciência.
 
 ---
 
@@ -11,7 +10,7 @@ Sou uma profissional multidisciplinar, com formação **Técnica em Informática
 - 🌱 Estou sempre aprendendo e explorando novas fronteiras, especialmente em Inteligência Artificial aplicada à biotecnologia (como com o Google Gemini), análise avançada de dados genômicos e as últimas tendências em #TechBio.
 - 👯 Busco colaborar em projetos desafiadores e inovadores, especialmente open source, que tenham o potencial de gerar impacto positivo.
 - 🧬 Tenho um forte background em pesquisa na área de Bioinformática, com foco no desenvolvimento de pipelines em Python para análise de elementos genéticos móveis.
-- 📫 Como me encontrar: [giulianalpola@gmail.com](mailto:giulianalpolasp@gmail.com) ou pelo LinkedIn (link abaixo!).
+- 📫 Como me encontrar: [giulianalpola@gmail.com](mailto:giulianapolasp@gmail.com) ou pelo LinkedIn (link abaixo!).
 - ⚡ Curiosidade: Adoro transformar dados complexos em informações úteis e soluções práticas, conectando o olhar técnico a uma visão estratégica mais ampla!
 
 ---
