@@ -10,7 +10,6 @@ Sou uma profissional multidisciplinar, com formação **Técnica em Informática
 - 🌱 Estou sempre aprendendo e explorando novas fronteiras, especialmente em Inteligência Artificial aplicada à biotecnologia (como com o Google Gemini), análise avançada de dados genômicos e as últimas tendências em #TechBio.
 - 👯 Busco colaborar em projetos desafiadores e inovadores, especialmente open source, que tenham o potencial de gerar impacto positivo.
 - 🧬 Tenho um forte background em pesquisa na área de Bioinformática, com foco no desenvolvimento de pipelines em Python para análise de elementos genéticos móveis.
-- 📫 Como me encontrar: [giulianalpola@gmail.com](mailto:giulianapolasp@gmail.com) ou pelo LinkedIn (link abaixo!).
 - ⚡ Curiosidade: Adoro transformar dados complexos em informações úteis e soluções práticas, conectando o olhar técnico a uma visão estratégica mais ampla!
 
 ---
@@ -45,7 +44,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 Conecte-se comigo!
 
 <a href="https://www.linkedin.com/in/giulianapola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:giulianalpolasp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:giulianapolasp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 ---
 
 Obrigada pela visita! Sinta-se à vontade para explorar meus projetos e entrar em contato. 😊
